@@ -1,0 +1,21 @@
+:root {
+  --color-primary: #2584ff;
+  --color-secondary: #00d9ff;
+  --color-accent: #ff3400;
+  --color-headings: #1b0760;
+  --color-body: #574e73;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+h1,
+h2,
+h3 {
+  color: var(--color-headings);
+}
+
+h1 {
+  font-size: 7rem;
+}
